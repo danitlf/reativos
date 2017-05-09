@@ -1,4 +1,4 @@
-nt buttonPinUP = 2;
+const int buttonPinUP = 2;
 const int buttonPinDown = 3;
 const int ledPin = 13;      
 int estado;
